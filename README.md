@@ -9,9 +9,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BabiMumba.BabiMumba)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabiMumba&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabiMumba&show_icons=true&theme=radical&count_private=true)
 
-![Babi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=BabiMumba&theme=material-palenight&hide_border=true)
+![Babi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=BabiMumba&theme=material-palenight&hide_border=true&count_private=true)
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=BabiMumba&theme=material-palenight)
 
