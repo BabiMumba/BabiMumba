@@ -4,19 +4,17 @@
 
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BabiMumba.BabiMumba)
+
 [![committers.top badge](https://user-badge.committers.top/congo_private/BabiMumba.svg)](https://user-badge.committers.top/congo_private/BabiMumba)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BabiMumba.BabiMumba)
 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BabiMumba&count_private=true&theme=material-palenight&&include_all_commits=true&hide_border=true)
 
-
-
-![Babi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=BabiMumba&theme=material-palenight&hide_border=true&count_private=true)
+![Marien's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=BabiMumba&theme=material-palenight&hide_border=true)
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=BabiMumba&theme=material-palenight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BabiMumba&hide_border=true&layout=compact&count_private=true&theme=material-palenight)
-
