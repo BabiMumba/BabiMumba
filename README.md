@@ -5,7 +5,7 @@
 </p>
 
 
-[![committers.top badge](https://user-badge.committers.top/congo_private/BabiMumba.svg)](https://user-badge.committers.top/congo_private/BabiMumba)
+[![committers.top badge](https://user-badge.committers.top/congo_kinshasa/BabiMumba.svg)](https://user-badge.committers.top/congo_kinshasa/BabiMumba)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BabiMumba.BabiMumba)
 
