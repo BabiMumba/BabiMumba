@@ -1,8 +1,5 @@
-<p align="left">
-<a href="https://www.linkedin.com/in/babi-mumba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BabiMumba-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/BabiMumba"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-BabiMumba-blue?style=flat-square&logo=twitter"></a>
-
-</p>
+<h1 align="center">Salut 👋, je m'appelle Babi Mumba </h1>
+<h3 align="center">Developpeur Mobile Junior</h3>
 
 
 [![committers.top badge](https://user-badge.committers.top/congo_kinshasa/BabiMumba.svg)](https://user-badge.committers.top/congo_kinshasa/BabiMumba)
@@ -18,3 +15,12 @@
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=BabiMumba&theme=material-palenight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BabiMumba&hide_border=true&layout=compact&count_private=true&theme=material-palenight)
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babi" alt="babi" /></a> </p>
+<p align="left">
+<a href="https://www.linkedin.com/in/babi-mumba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BabiMumba-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/BabiMumba"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-BabiMumba-blue?style=flat-square&logo=twitter"></a>
+
+</p>
