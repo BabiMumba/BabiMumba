@@ -17,8 +17,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BabiMumba&hide_border=true&layout=compact&count_private=true&theme=material-palenight)
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babi" alt="babi" /></a> </p>
+<p align="left"> <a href="https://github.com/BabiMumba/Stone_Book"><img src="https://github-profile-trophy.vercel.app/?username=babi" alt="babi" /></a> </p>
 <p align="left">
 <a href="https://www.linkedin.com/in/babi-mumba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BabiMumba-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/BabiMumba"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-BabiMumba-blue?style=flat-square&logo=twitter"></a>
