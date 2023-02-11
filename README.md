@@ -1,5 +1,5 @@
-<h1 align="center">Salut 👋, je m'appelle Babi Mumba </h1>
-<h3 align="center">je suis Developpeur Mobile </h3>
+<h1 align="center">Bonjour 👋 👋, je m'appelle Babi Mumba </h1>
+<h3 align="center">je suis un Developpeur Mobile android</h3>
 
 [![committers.top badge](https://user-badge.committers.top/congo_kinshasa/BabiMumba.svg)](https://user-badge.committers.top/congo_kinshasa/BabiMumba)
 
